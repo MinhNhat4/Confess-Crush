@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Happy birthday",
+    introTitle: 'Марчук Елизавета',
+    introDesc: `Happy birthday to you
+    Happy birthday to you
+    Happy birthday, happy birthday and the start burn tonight
+    Happy birthday to you`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Как твои 14 лет?🥰',
+    desc: '15 лет веселись, будь счастлива и много улыбайся ',
+    btnYes: 'Yes <33',
+    btnNo: 'No:3',
+    question:'Пойдем как-нибудь в Zoom, я хочу тебя увидеть? <3',
+    btnReply: 'заполнить бланк Yes or No  <3',
+    reply: 'Yes <33333333',
+    mess: 'Желаю вам прекрасного нового года, хорошо учитесь и будьте счастливы со своей семьей😘😘',
+    messDesc: 'Веселись сегодня.',
+    btnAccept: 'да <3',
+    messLink: 'https://minhnhat4.github.io/Confess-Crush/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
